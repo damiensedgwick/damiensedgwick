@@ -13,5 +13,5 @@ I work at [Yozobi](https://www.yozobi.com/) as a Frontend Developer. For more in
 * [My website](https://www.damiensedgwick.com) <sub><sup>(currently "under construction", I will finish it soon I promise.)</sup></sub>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/damiensedgwick/badges/large" />  
+  <img src="https://www.codewars.com/users/damiensedgwick/badges/small" />  
 </p>
