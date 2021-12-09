@@ -6,11 +6,9 @@ I also like contributing where and when I can to open source software or project
 
 I work at [Yozobi](https://www.yozobi.com/) as a Frontend Developer. For more information about me, where I've been, what I've done, check out my website (link below).
 
-### Github Activity
-
-<p align= "left">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiensedgwick&theme=react&layout=compact" />
+<p align= "center">
+  <img height= "175" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height= "175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiensedgwick&theme=react&layout=compact" />
 </p>
 
 ### Links
