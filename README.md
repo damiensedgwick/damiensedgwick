@@ -10,7 +10,7 @@ I work at [Yozobi](https://www.yozobi.com/) as a Frontend Developer. For more in
 
 <p align= "left">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiensedgwick&theme=react" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiensedgwick&theme=react&compact=true&langs_count=10" />
 </p>
 
 ### Links
