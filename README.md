@@ -1,6 +1,6 @@
 Hi, I’m Damien. 
 
-I like contributing where I can to open source software or projects such as [Norfolk Developers](https://www.norfolkdevelopers.com/), [XState Catalogue](https://xstate-catalogue.com/), [React Simple Hook Modal](https://react-simple-hook-modal.vercel.app/) and [Remix](https://remix.run/)
+I like contributing where I can to open source software or projects such as [Norfolk Developers](https://www.norfolkdevelopers.com/), [XState Catalogue](https://xstate-catalogue.com/), [React Simple Hook Modal](https://react-simple-hook-modal.vercel.app/), [Remix](https://remix.run/) and [Github CLI](https://github.com/cli/cli)
 
 I work at [Huler](https://huler.io/) as a Frontend Developer. For more information about me, where I've been, what I've done, check out my website (link below).
 
