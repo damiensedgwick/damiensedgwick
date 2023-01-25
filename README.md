@@ -8,7 +8,6 @@ I like contributing where I can to open source software or projects such as [Nor
 </p>
 
 ### Links
-* [Twitter](https://www.linkedin.com/in/damiensedgwick/)
 * [Polywork](https://www.polywork.com/dks)
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 * [My website](https://www.damiensedgwick.com) <sub><sup>(currently "under construction", I will finish it soon I promise.)</sup></sub>
