@@ -1,17 +1,22 @@
-Hi, I’m Damien. 
-
-I like contributing where I can to open source software or projects such as [Norfolk Developers](https://www.norfolkdevelopers.com/), [XState Catalogue](https://xstate-catalogue.com/), [React Simple Hook Modal](https://react-simple-hook-modal.vercel.app/), [Remix](https://remix.run/) and [Github CLI](https://github.com/cli/cli)
-
-<p align= "center">
-  <img height= "175" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height= "175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiensedgwick&theme=react&layout=compact" />
+<p align="center">
+  <img alt="Codewars stats" src="https://www.codewars.com/users/damiensedgwick/badges/small">  
 </p>
+
+###
+
+Hello Friend 👋
+
+I am a software developer based in Norwich, UK and I am currently working on [Floop](https://www.feedback-loop.io) in my spare time 👉 (That is your queue to go check it out)
 
 ### Links
-* [Polywork](https://www.polywork.com/dks)
+* [Floop](https://www.feedback-loop.io)
+* [Website](https://www.damiensedgwick.com)
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
-* [My website](https://www.damiensedgwick.com) <sub><sup>(currently "under construction", I will finish it soon I promise.)</sup></sub>
+* [Polywork](https://www.polywork.com/dks)
 
-<p align="center">
-  <img src="https://www.codewars.com/users/damiensedgwick/badges/small" />  
-</p>
+###
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=damiensedgwick&count_private=true&show_icons=true">
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&count_private=true&show_icons=true">
+</picture>
