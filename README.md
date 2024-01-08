@@ -1,10 +1,4 @@
-<p align="center">
-  <img alt="Codewars stats" src="https://www.codewars.com/users/damiensedgwick/badges/small">  
-</p>
-
-###
-
-Hello Friend 👋
+Hello 👋
 
 I am a software developer based in Norwich, UK and I am currently working on [Floop](https://www.feedback-loop.io) in my spare time.
 
@@ -16,7 +10,4 @@ I am a software developer based in Norwich, UK and I am currently working on [Fl
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=damiensedgwick&count_private=true&show_icons=true&theme=dark">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=damiensedgwick&count_private=true&show_icons=true">
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick&hide_border=true)](https://git.io/streak-stats)
