@@ -2,11 +2,17 @@ Hello 👋
 
 I am a software developer based in Norwich, UK and I am currently working on [Floop](https://www.feedback-loop.io) in my spare time.
 
-### Links
-* [Floop](https://www.feedback-loop.io)
+### Socials
+
 * [Website](https://www.damiensedgwick.com)
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 * [Polywork](https://www.polywork.com/dks)
+
+### Current Projects
+
+### Old Projects
+
+* [Floop](https://floop-damiensedgwick.vercel.app/)
 
 ###
 
