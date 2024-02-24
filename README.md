@@ -10,7 +10,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on mic
 
 ### Projects
 
-* [Floop](https://floop-damiensedgwick.vercel.app/) ☠️
+* [Floop](https://github.com/damiensedgwick/floop) ☠️
 
 ###
 
