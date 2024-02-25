@@ -8,6 +8,9 @@ I am a software developer based in Norwich, UK and I am currently hacking on mic
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 * [Polywork](https://www.polywork.com/dks)
 
+### Not social but social-ish
+* [Exercism](https://exercism.org/profiles/damiensedgwick)
+
 ### Projects
 
 * [Floop](https://github.com/damiensedgwick/floop) ☠️
