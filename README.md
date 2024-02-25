@@ -2,6 +2,10 @@ Hello 👋
 
 I am a software developer based in Norwich, UK and I am currently hacking on micro-apps using Golang and HTMX!
 
+### Projects
+
+* [Floop](https://github.com/damiensedgwick/floop) ☠️
+
 ### Socials
 
 * [Website](https://www.damiensedgwick.com)
@@ -10,11 +14,5 @@ I am a software developer based in Norwich, UK and I am currently hacking on mic
 
 ### Not social but social-ish
 * [Exercism](https://exercism.org/profiles/damiensedgwick)
-
-### Projects
-
-* [Floop](https://github.com/damiensedgwick/floop) ☠️
-
-###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick&hide_border=true)](https://git.io/streak-stats)
