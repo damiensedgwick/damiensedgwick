@@ -6,6 +6,8 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **Under active development**
 
+* [Napp](https://github.com/damiensedgwick/napp)
+
 **No longer under active development**
 
 * [Floop](https://github.com/damiensedgwick/floop) ☠️
