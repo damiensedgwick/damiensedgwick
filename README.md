@@ -10,7 +10,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **No longer under active development**
 
-* [Floop](https://github.com/damiensedgwick/floop) ☠️
+* [Floop](https://github.com/damiensedgwick/floop)
 
 ### Socials
 
