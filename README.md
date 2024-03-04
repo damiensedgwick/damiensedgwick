@@ -4,11 +4,11 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 ### Projects
 
-**Under active development**
+**Projects**
 
 * [Napp](https://github.com/damiensedgwick/napp)
 
-**No longer under active development**
+**Project graveyard**
 
 * [Floop](https://github.com/damiensedgwick/floop)
 
