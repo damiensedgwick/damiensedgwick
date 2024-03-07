@@ -6,19 +6,16 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **Projects**
 
-* [Napp](https://github.com/damiensedgwick/napp)
+* [Napp](https://github.com/damiensedgwick/napp) - Nano App command line tool.
 
 **Project graveyard**
 
-* [Floop](https://github.com/damiensedgwick/floop)
+* [Floop](https://github.com/damiensedgwick/floop) - Feedback collection made easy.
 
 ### Socials
 
 * [Website](https://www.damiensedgwick.com)
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 * [Polywork](https://www.polywork.com/dks)
-
-### Not social but social-ish
-* [Exercism](https://exercism.org/profiles/damiensedgwick)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick&hide_border=true)](https://git.io/streak-stats)
