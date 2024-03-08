@@ -18,6 +18,6 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 * [Polywork](https://www.polywork.com/dks)
 
-<div style="text-align: center;">
+<p style="text-align: center;">
     [![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick&hide_border=true)](https://git.io/streak-stats)
-</div>
+</p>
