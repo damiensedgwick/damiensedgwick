@@ -6,7 +6,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **Developing**
 
-* [Godo](https://github.com/damiensedgwick/godo) - Minimalistic todo app.
+Pondering...
 
 **Incubating**
 
