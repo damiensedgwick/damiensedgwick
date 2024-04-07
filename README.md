@@ -10,8 +10,6 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 * [Keep Calm and Budget On](https://github.com/damiensedgwick/keep-calm-and-budget-on) - Minimalist budgeting app.
 
-Pondering...
-
 **Incubating**
 
 * [Napp](https://github.com/damiensedgwick/napp) - Nano App command line tool.
