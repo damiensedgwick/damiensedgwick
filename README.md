@@ -6,9 +6,9 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **Developing**
 
-* [Godo](https://github.com/damiensedgwick/godo) - Something something todo app.
+* [Godo](https://godos.fly.dev) - Something something todo app.
 
-* [Keep Calm and Budget On](https://github.com/damiensedgwick/keep-calm-and-budget-on) - Minimalist budgeting app.
+* [Keep Calm and Budget On](https://keep-calm-and-budget-on.fly.dev) - Minimalist budgeting app.
 
 **Incubating**
 
