@@ -6,9 +6,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on nap
 
 **Developing**
 
-* [Godo](https://godos.fly.dev) - Something something todo app.
-
-* [Keep Calm and Budget On](https://keep-calm-and-budget-on.fly.dev) - Minimalist budgeting app.
+*Pondering....*
 
 **Incubating**
 
