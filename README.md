@@ -1,6 +1,7 @@
 Hello 👋
 
-I am a software developer based in Norwich, UK and I am currently hacking on napps using Golang, HTMX and SQLite.
+I am a software developer based in Norwich, UK and I am curr CV ently hacking on the napp generator and napp
+apps in order to make lightweight and portable web applications.
 
 ### Projects
 
