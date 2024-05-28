@@ -7,7 +7,7 @@ apps in order to make lightweight and portable web applications.
 
 **Developing**
 
-* [HOT](https://github.com/damiensedgwick/heating-oil-tracker) - Heating Oil Tracker.
+...
 
 **Incubating**
 
