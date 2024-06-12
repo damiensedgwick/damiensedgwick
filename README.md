@@ -9,7 +9,7 @@ apps in order to make lightweight and portable web applications.
 
 ...
 
-**Incubating**
+**Thriving**
 
 * [Napp](https://github.com/damiensedgwick/napp) - Nano App command line tool.
 
