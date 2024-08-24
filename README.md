@@ -1,7 +1,6 @@
 Hello 👋
 
-I am a software developer based in Norwich, UK and I am currently hacking on the napp generator and napp
-apps in order to make lightweight and portable web applications.
+I am a software developer based in Norwich, UK and I am currently hacking on Napp and Feature Flicks!
 
 ### Projects
 
