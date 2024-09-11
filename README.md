@@ -10,6 +10,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on Nap
 
 **Thriving**
 
+* [frontpage.fyi](https://frontpage.fyi) - Link aggregator built on top of atproto.
 * [Napp](https://github.com/damiensedgwick/napp) - Nano App command line tool.
 
 **Retired**
