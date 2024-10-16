@@ -6,7 +6,7 @@ I am a software developer based in Norwich, UK and I am currently hacking on Nap
 
 **Developing**
 
-* [Feature Flicks](https://featureflicks.com) - API driven feature flags.
+* [Frontpage.fyi](https://frontpage.fyi/) - Community driven links aggregator
 
 **Thriving**
 
