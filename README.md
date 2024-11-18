@@ -1,6 +1,6 @@
 Hello 👋
 
-I am a software developer based in Norwich, UK and I am currently hacking on Napp and Feature Flicks!
+I am a software developer based in Norwich, UK and I am currently hacking on [Napp](https://github.com/damiensedgwick/napp) and [Frontpage.fyi](https://frontpage.fyi)
 
 ### Projects
 
