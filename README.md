@@ -22,4 +22,4 @@ I am a software developer based in Norwich, UK and I am currently hacking on [Na
 * [Website](https://www.damiensedgwick.com)
 * [LinkedIn](https://www.twitter.com/damiensedgwick)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=damiensedgwick)](https://git.io/streak-stats)
